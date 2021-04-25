@@ -24,4 +24,5 @@ td>button{
 }
 td>button:hover{
     color: aqua;
+    background-color: rgb(21, 110, 110);
 }
